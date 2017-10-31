@@ -1,0 +1,28 @@
+/* Spooky scary css file */
+
+h1{
+    color: #f26b10;
+    font-size: 70px;
+    font-family: "Palatino Linotype", "Book Antiqua", Palatino, serifGeorgia, serif;
+}
+
+body{
+    color: black;
+    background-image: url(pumpkin3.jpg);
+    /*background-repeat: no-repeat;*/
+    background-size: 1000px 900px;
+}
+
+h3{
+    color: #6d0aaa;
+    font-size: 30px;
+}
+
+a{
+    color: #a50101;
+}
+
+li{
+    color: #3401a5;
+}
+    
