@@ -1,0 +1,25 @@
+a {
+    color: red;
+    border-style: solid;
+    border-color: white;
+    border-width: 8px;
+}
+
+
+.navzone{
+    color: #FF0000;
+    background-color: orange;
+}
+
+
+body{
+    text-align: right;
+    background-color:black;
+    color: white;
+}
+
+.extreme{
+    font-size:100px;
+    border-color:#FFFF00;
+    border-style: dotted;
+}
