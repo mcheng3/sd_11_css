@@ -1,0 +1,37 @@
+h1{
+	color: #e0479e;
+	text-align: center;
+	font-size: 75px;
+	text-shadow: 5px 5px #ffafc5;
+}
+
+.article_title{
+	text-align: center;
+	color: #1e1e24;
+	font-size: 23px;
+}
+
+.article_text{
+  	padding-left: 50px;
+  	padding-right: 50px;
+	color: #553e4e;
+	text-shadow: 2px 1px #ffafc5;
+}
+
+body{
+	background-color: #ffdfe4;
+}
+
+a{
+	color: #ad8a64;
+}
+
+a.visited{
+	color: #bf8b85;
+}
+
+#credits{
+	padding-left: 50px;
+	color: #92140c;
+	white-space: pre-wrap;
+}
